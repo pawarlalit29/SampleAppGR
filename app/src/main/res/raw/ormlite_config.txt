@@ -1,0 +1,32 @@
+# --table-start--
+dataClass=com.lalitp.sampleapp.Database.LocationDetails
+tableName=mylocation
+# --table-fields-start--
+# --field-start--
+fieldName=locationId
+columnName=_id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=locName
+columnName=location_name
+# --field-end--
+# --field-start--
+fieldName=locLat
+columnName=location_lat
+# --field-end--
+# --field-start--
+fieldName=locLong
+columnName=location_long
+# --field-end--
+# --field-start--
+fieldName=locPic
+columnName=location_pic
+# --field-end--
+# --field-start--
+fieldName=timestamp
+columnName=timestamp
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

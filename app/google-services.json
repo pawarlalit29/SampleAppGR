@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "89952797487",
+    "firebase_url": "https://api-project-89952797487.firebaseio.com",
+    "project_id": "api-project-89952797487",
+    "storage_bucket": "api-project-89952797487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89952797487:android:8a8747e5c86d0114",
+        "android_client_info": {
+          "package_name": "com.lalit_pawar.locationpickersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89952797487-oi1tc06k28nurnbdrrmk9p9re5ijjvgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyPGowmSTbhs-4O7JHGE0vJXsLZ4IR0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89952797487:android:f6085f24242add51",
+        "android_client_info": {
+          "package_name": "com.lalitp.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89952797487-oi1tc06k28nurnbdrrmk9p9re5ijjvgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyPGowmSTbhs-4O7JHGE0vJXsLZ4IR0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
